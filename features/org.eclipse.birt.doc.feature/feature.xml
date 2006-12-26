@@ -26,7 +26,6 @@
 
    <requires>
       <import plugin="org.eclipse.help" version="3.2.0" match="compatible"/>
-      <import feature="org.eclipse.datatools.doc.user" version="1.0.0" match="greaterOrEqual"/>
    </requires>
 
    <plugin
