@@ -77,3 +77,5 @@ plugin@org.w3c.dom.smil.source,1.0.0=GET,http://download.eclipse.org/tools/orbit
 plugin@org.w3c.dom.svg,1.1.0=GET,http://download.eclipse.org/tools/orbit/downloads/drops/R20080611105805/bundles/org.w3c.dom.svg_1.1.0.v200806040011.jar
 
 plugin@org.w3c.dom.svg.source,1.1.0=GET,http://download.eclipse.org/tools/orbit/downloads/drops/R20080611105805/bundles/org.w3c.dom.svg.source_1.1.0.v200806040011.jar
+
+
