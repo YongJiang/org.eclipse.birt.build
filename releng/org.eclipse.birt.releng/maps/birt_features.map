@@ -34,6 +34,7 @@ feature@org.eclipse.birt.dtp.sybase.nl=v200911041343,:ext:xgu@dev.eclipse.org:/c
 
 !*************** Third Party Features **************************************************************************** 
 feature@org.eclipse.birt.thirdparty=v20090925,:ext:xgu@dev.eclipse.org:/cvsroot/birt,,source/features/org.eclipse.birt.thirdparty.feature
+feature@org.apache.commons.codec=v20081027,:pserver:anonymous@dev.eclipse.org:/cvsroot/birt,,source/features/org.apache.commons.codec.feature 
 
 feature@com.lowagie.itext=v20081027,:ext:xgu@dev.eclipse.org:/cvsroot/birt,,source/features/com.lowagie.itext.feature
 feature@org.apache.derby.core=v20081027,:ext:xgu@dev.eclipse.org:/cvsroot/birt,,source/features/org.apache.derby.core.feature
