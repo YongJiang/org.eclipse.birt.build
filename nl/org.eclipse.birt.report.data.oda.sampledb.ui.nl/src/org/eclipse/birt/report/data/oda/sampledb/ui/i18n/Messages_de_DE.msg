@@ -1,9 +1,0 @@
-datasource.page.title=Neue Beispieldatenquelle "Classic Models Inc."
-datasource.page.msg=Es wird eine JDBC-Datenquelle erstellt, die mit der Beispieldatenbank "Classic Models Inc." verknüpft ist. Dafür gelten folgende Verbindungsparameter:
-datasource.page.driver.class=Treiberklasse:
-datasource.page.url=Datenbank-URL: 
-datasource.page.user=Datenbank-Benutzer:
-datasource.upgrade.msg.firstLine=The Data Source ({0}) used by this data set was created using an older release of this product. 
-datasource.upgrade.msg.secondLine=Its definition needs to be updated. \n\nChoose ''OK'' to update data source {0} now. 
-datasource.upgrade.msg.thirdLine=You will then need to re-open this data set editor.
-datasource.propertyPage.tooltip=JDBC-Datenquelle

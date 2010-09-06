@@ -1,9 +1,0 @@
-datasource.page.title=Nouvelle source de données exemple de Classic Models Inc.
-datasource.page.msg=Une source de données JDBC se connectant à la base de données exemple Classic Models Inc. sera créée avec les propriétés de connexion suivantes
-datasource.page.driver.class=Classe de pilote :
-datasource.page.url=URL de la base de données : 
-datasource.page.user=Utilisateur de la base de données :
-datasource.upgrade.msg.firstLine=The Data Source ({0}) used by this data set was created using an older release of this product. 
-datasource.upgrade.msg.secondLine=Its definition needs to be updated. \n\nChoose ''OK'' to update data source {0} now. 
-datasource.upgrade.msg.thirdLine=You will then need to re-open this data set editor.
-datasource.propertyPage.tooltip=Source de données JDBC

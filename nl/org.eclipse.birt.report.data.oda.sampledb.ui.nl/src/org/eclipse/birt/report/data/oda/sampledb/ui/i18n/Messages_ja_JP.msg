@@ -1,9 +1,0 @@
-datasource.page.title=Classic Models Inc. の新規サンプルデータソース
-datasource.page.msg=次の接続プロパティに基づいて、Classic Models Inc. のサンプルデータベースへ接続する JDBC データソースを作成します。
-datasource.page.driver.class=ドライバクラス :
-datasource.page.url=データベースの URL : 
-datasource.page.user=データベースのユーザー :
-datasource.upgrade.msg.firstLine=The Data Source ({0}) used by this data set was created using an older release of this product. 
-datasource.upgrade.msg.secondLine=Its definition needs to be updated. \n\nChoose ''OK'' to update data source {0} now. 
-datasource.upgrade.msg.thirdLine=You will then need to re-open this data set editor.
-datasource.propertyPage.tooltip=JDBC データソース

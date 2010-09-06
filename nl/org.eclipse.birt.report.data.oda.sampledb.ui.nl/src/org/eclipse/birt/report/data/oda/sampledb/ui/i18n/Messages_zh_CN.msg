@@ -1,9 +1,0 @@
-datasource.page.title=新的 Classic Models Inc. 示例数据源
-datasource.page.msg=将使用下列连接属性来创建连接至 Classic Models Inc. 示例数据库的 JDBC 数据源
-datasource.page.driver.class=驱动程序类:
-datasource.page.url=数据库 URL: 
-datasource.page.user=数据库用户:
-datasource.upgrade.msg.firstLine=The Data Source ({0}) used by this data set was created using an older release of this product. 
-datasource.upgrade.msg.secondLine=Its definition needs to be updated. \n\nChoose ''OK'' to update data source {0} now. 
-datasource.upgrade.msg.thirdLine=You will then need to re-open this data set editor.
-datasource.propertyPage.tooltip=JDBC 数据源

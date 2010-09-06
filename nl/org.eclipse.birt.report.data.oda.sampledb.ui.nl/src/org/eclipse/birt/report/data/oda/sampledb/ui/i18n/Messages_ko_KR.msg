@@ -1,9 +1,0 @@
-datasource.page.title=New Classic Models Inc. 예제 데이터 원본
-datasource.page.msg=Classic Models Inc. 예제 데이터베이스에 연결하는 JDBC 데이터 원본은 다음 연결 속성으로 생성됩니다.
-datasource.page.driver.class=드라이버 클래스:
-datasource.page.url=데이터베이스 URL: 
-datasource.page.user=데이터베이스 사용자:
-datasource.upgrade.msg.firstLine=The Data Source ({0}) used by this data set was created using an older release of this product. 
-datasource.upgrade.msg.secondLine=Its definition needs to be updated. \n\nChoose ''OK'' to update data source {0} now. 
-datasource.upgrade.msg.thirdLine=You will then need to re-open this data set editor.
-datasource.propertyPage.tooltip=JDBC 데이터 원본
